@@ -14,4 +14,4 @@
 ### 📈 Github Stats :
 
 <p><img align=top src="https://github-readme-stats.vercel.app/api?username=Arshdeep54&theme=tokyonight"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arshdeep54&" alt="Arshdeep54" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arshdeep54&theme=gruvbox&border_radius=6.3" alt="GitHub Streak" /></a>
