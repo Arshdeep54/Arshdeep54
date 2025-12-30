@@ -8,6 +8,9 @@
 - 👨‍🎓 I’m a pre-final year undergrad student at IIT Roorkee.
 - 🔭 I work on backend systems, databases, and infrastructure, with a strong focus on systems programming
 - 🌱 Currently building and exploring storage engines, vector indexes, and distributed systems
-- 📫 How to reach me: [Mail](mailto:balarsh40@gmail.com) [Linkedin](https://www.linkedin.com/in/arshdeep-singh-326815292/)
+- 📫 How to reach me:
+  <a href="mailto:balarsh40@gmail.com" target="_blank">Mail</a>
+  <a href="https://www.linkedin.com/in/arshdeep-singh-326815292/" target="_blank">LinkedIn</a>
 
-- Portfolio: [arshdeez.me](https://arshdeez.me)
+- Portfolio:
+  <a href="https://arshdeez.me" target="_blank">arshdeez.me</a>
