@@ -5,13 +5,9 @@
 
 ### 🤠 About Me :
 
-- 👨‍🎓 I’m an undergrad student at IIT Roorkee.
-- 🔭 I'm a Full stack web and blockchain developer
-- 🌱 I’m currently exploring databases and cryptography
+- 👨‍🎓 I’m a pre-final year undergrad student at IIT Roorkee.
+- 🔭 I work on backend systems, databases, and infrastructure, with a strong focus on systems programming
+- 🌱 Currently building and exploring storage engines, vector indexes, and distributed systems
 - 📫 How to reach me: [Mail](mailto:balarsh40@gmail.com) [Linkedin](https://www.linkedin.com/in/arshdeep-singh-326815292/)
 
-
-### 📈 Github Stats :
-
-<p><img align=top src="https://github-readme-stats.vercel.app/api?username=Arshdeep54&theme=tokyonight"/></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arshdeep54&theme=gruvbox&border_radius=6.3" alt="GitHub Streak" /></a>
+- Portfolio: [arshdeez.me](arshdeez.me)
