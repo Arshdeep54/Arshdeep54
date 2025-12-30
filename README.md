@@ -10,4 +10,4 @@
 - 🌱 Currently building and exploring storage engines, vector indexes, and distributed systems
 - 📫 How to reach me: [Mail](mailto:balarsh40@gmail.com) [Linkedin](https://www.linkedin.com/in/arshdeep-singh-326815292/)
 
-- Portfolio: [arshdeez.me](arshdeez.me)
+- Portfolio: [arshdeez.me](https://arshdeez.me)
