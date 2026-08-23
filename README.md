@@ -13,4 +13,4 @@
   <a href="https://www.linkedin.com/in/arshdeep-singh-326815292/" target="_blank">LinkedIn</a>
 
 - Portfolio:
-  <a href="https://arshdeez.me" target="_blank">arshdeez.me</a>
+  <a href="https://hiesenbug.dev" target="_blank">hiesenbug.dev</a>
